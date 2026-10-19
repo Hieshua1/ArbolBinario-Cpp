@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ArbolBinario-Cpp/ArbolBinario-Cpp.vcxproj" Id="7706a861-f38a-4a63-99a5-cf7f996997a7" />
+</Solution>
